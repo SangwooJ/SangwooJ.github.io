@@ -11,7 +11,7 @@ classes: wide
 - Sangwoo Jeon worked as a software developer in [Gbrain Inc](http://gbrainlife.com/). He developed Spike detection , noise filtering Algorithm for EEG(electroencephalography) analysis Software. He also developed Android application for HumanIN (EMG Sensor). 2019.12-2020.8
 
 ## Project
-checkout [menu-project](https://sangwooj.github.io/project/)
+- checkout [menu-project](https://sangwooj.github.io/project/)
 
 ## Paper & Conference
 - 2021 APISAT
