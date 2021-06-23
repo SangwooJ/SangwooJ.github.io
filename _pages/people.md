@@ -13,7 +13,7 @@ author_profile: true
 My truth worthy connections
 - Jun-hyuk Kwon
   - Full stack Developer
-- Jisoo Park 
+- [Jisoo Park](https://www.sysbioinfo.com/people#h.w0snweqwfi8c) 
   - MS candidate, System Bio Info Lab, Kyung Hee University
 - Kevin Chang
   - Physicist, Korea University
