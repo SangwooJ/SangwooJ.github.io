@@ -28,11 +28,11 @@ classes: wide
   - Exchange student : Computer Science, City University of Hong Kong , 2017
 
 ## Other Learning Course
-= Node.js로 구현하는 쇼핑몰 프로젝트 CAMP
-- Institute: FastCampus
-- 2017.12-2018.02
+- Node.js로 구현하는 쇼핑몰 프로젝트 CAMP
+  - Institute: FastCampus
+  - 2017.12-2018.02
 - 빅데이터 청년 인재 양성 프로그램 : 빅데이터분석기반지능sw과정
-- Institute: 한국데이터진흥원, 동국대학교
-- 2018.06-2018.09
+  - Institute: 한국데이터진흥원, 동국대학교
+  - 2018.06-2018.09
 
 
