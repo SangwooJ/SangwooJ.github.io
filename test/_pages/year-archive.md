@@ -1,6 +1,9 @@
 ---
 title: "Posts by Year"
-permalink: /year-archive/
+permalink: /about/
 layout: posts
 author_profile: true
 ---
+
+#My name is Sangwoo Jeon
+#
