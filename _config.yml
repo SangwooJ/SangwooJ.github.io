@@ -100,10 +100,10 @@ author:
   location         : "Somewhere"
   email            :
   links:
-    - label: "Email"
+    - label: "ndrw5580@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ndrw5580@gmail.com"
-    - label: "Website"
+    - label: "https://sangwooj.github.io"
       icon: "fas fa-fw fa-link"
       url: "https://sangwooj.github.io"
     - label: "Twitter"
