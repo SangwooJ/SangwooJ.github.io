@@ -1,6 +1,6 @@
 # [Sangwoo Jeon Website](https://sangwooj.github.io/)
 
-[forked from](https://github.com/mmistakes/minimal-mistakes)
+forked from [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
 
 
 ---
