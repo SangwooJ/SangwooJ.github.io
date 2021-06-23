@@ -19,5 +19,6 @@ My truth worthy connections
   - Designer
 - [L.M Youn](https://novel.naver.com/search?keyword=LMYoun&target=author)
   - Game screenwriter
-
+- Jun-hyuk Kwon
+  - Full stack Developer
 
