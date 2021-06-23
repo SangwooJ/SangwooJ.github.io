@@ -7,7 +7,7 @@ classes: wide
 ---
 
 ## Experience
-- Sangwoo Jeon is a M.S course researcher of [DMS Lab](https://dms.konkuk.ac.kr) at Konkuk University
+- Sangwoo Jeon is a M.S course researcher of [DMS Lab](https://dmslab-konkuk.github.io/) at Konkuk University
 
 ## Education
 ## Project
