@@ -13,7 +13,8 @@ author_profile: true
 My truth worthy connections
 - Kevin Chang
   - physicist, Korea University
-- dwdwd
-- wdwdwdw
+- June Huh
+  - Entrepreneur
+- 
 
 
