@@ -12,5 +12,5 @@ classes: wide
 ## Education
 - M.S : Computer Engineering , Konkuk University, 2020-2022
 - B.S : Computer Engineering , Konkuk University, 2015-2020 
-  - Exchange student, City University of Hong Kong , 2017
+  - Exchange student : Computer Science, City University of Hong Kong , 2017
 
