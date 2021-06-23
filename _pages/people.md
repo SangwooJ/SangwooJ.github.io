@@ -11,16 +11,17 @@ author_profile: true
 
 ### Connections 
 My truth worthy connections
-- Kevin Chang
-  - Physicist, Korea University
-- June Huh
-  - Entrepreneur
-- Jae-Hyun Park
-  - Designer
-- [L.M Youn](https://novel.naver.com/search?keyword=LMYoun&target=author)
-  - Game screenwriter
 - Jun-hyuk Kwon
   - Full stack Developer
 - Jisoo Park 
   - MS candidate, System Bio Info Lab, Kyung Hee University
+- Kevin Chang
+  - Physicist, Korea University
+- [L.M Youn](https://novel.naver.com/search?keyword=LMYoun&target=author)
+  - Game screenwriter
+- Jae-Hyun Park
+  - Designer
+- June Huh
+  - Entrepreneur
+
 
