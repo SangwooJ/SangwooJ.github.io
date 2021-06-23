@@ -1,9 +1,9 @@
 ---
 layout: single
 author_profile: true
+title: About me
 ---
 
-# About me
 ## Experience
 ### Hello
 # two 
