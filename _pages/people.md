@@ -10,7 +10,7 @@ author_profile: true
 
 
 ### Connections 
-My truth worthy connections
+My truthworthy connections
 - Jun-hyuk Kwon
   - Full stack Developer
 - [Jisoo Park](https://www.sysbioinfo.com/people#h.w0snweqwfi8c) 
