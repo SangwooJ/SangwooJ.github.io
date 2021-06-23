@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sangwoo Jeon Lab"
+title                    : "Sangwoo Jeon 의 Lab"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sangwoo Jeon"
@@ -96,8 +96,8 @@ analytics:
 author:
   name             : "Sangwoo Jeon"
   avatar           : "/assets/img/profile.png"
-  bio              : "efficient , flexible and fast learner 가 되기위해 노력중.."
-  location         : "Seoul"
+  bio              : "Efficient , flexible and fast learner 가 되기위해 노력중.."
+  location         : "Seoul, Republic of Korea"
   email            :
   links:
     - label: "ndrw5580@gmail.com"
