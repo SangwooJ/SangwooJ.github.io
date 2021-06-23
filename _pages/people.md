@@ -17,7 +17,7 @@ My truth worthy connections
   - Entrepreneur
 - Jae-Hyun Park
   - Designer
-- L.M Youn
+- [L.M Youn](https://novel.naver.com/search?keyword=LMYoun&target=author)
   - Game screenwriter
 
 
