@@ -9,7 +9,8 @@ author_profile: true
 - [DMS Lab members](https://dmslab-konkuk.github.io/people/)
 
 
-### my truth worthy connections 
+### connections 
+my truth worthy connections
 - Kevin Chang
   - physicist, Korea University
 - dwdwd
