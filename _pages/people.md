@@ -12,7 +12,7 @@ author_profile: true
 ### Connections 
 My truth worthy connections
 - Kevin Chang
-  - physicist, Korea University
+  - Physicist, Korea University
 - June Huh
   - Entrepreneur
 - Jae-Hyun Park
