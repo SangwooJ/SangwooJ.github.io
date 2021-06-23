@@ -21,4 +21,6 @@ My truth worthy connections
   - Game screenwriter
 - Jun-hyuk Kwon
   - Full stack Developer
+- Jisoo Park 
+  - MS candidate, System Bio Info Lab, Kyung Hee University
 
