@@ -17,5 +17,7 @@ My truth worthy connections
   - Entrepreneur
 - Jae-Hyun Park
   - Designer
+- L.M Yoon
+  - Game screenwriter
 
 
