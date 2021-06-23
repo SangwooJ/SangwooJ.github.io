@@ -8,7 +8,7 @@ author_profile: true
 
 #공사중
 
-## HumanIn by Gbrain Inc
+## HumanIN by Gbrain Inc
 ### 2020.6 ~ 2020.8
 - [Github](https://github.com/gBrain-Development/HumanToHumanInterfaceAndroid)  
 - [Product](http://gbrainlife.com/index.php?hCode=PRODUCT_LIST&cate_idx=21)  
