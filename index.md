@@ -2,6 +2,8 @@
 layout: single
 author_profile: true
 title: About me
+classes: wide
+
 ---
 
 ## Experience
