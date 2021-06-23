@@ -15,7 +15,7 @@ My truth worthy connections
   - physicist, Korea University
 - June Huh
   - Entrepreneur
-- J Park
+- Jae-Hyun Park
   - Designer
 
 
