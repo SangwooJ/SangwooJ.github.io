@@ -2,7 +2,7 @@
 main:
   
   - title: "About"
-    url: /index
+    url: https://sangwooj.github.io
   - title: "Project"
     url: /project/
   - title: "People"
