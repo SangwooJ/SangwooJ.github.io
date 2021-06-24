@@ -1,7 +1,7 @@
 ---
 title: "People"
 permalink: /people/
-layout: posts
+layout: single
 author_profile: true
 ---
 
