@@ -11,6 +11,9 @@ author_profile: true
 
 ### Connections 
 My truthworthy connections
+- [JaeBin Joo](https://www.linkedin.com/in/jaebin-joo/)
+  - QA Engineer, N Tech Service by NAVER Corp
+#  - Collaboration project
 - Jun-hyuk Kwon
   - Full stack Developer
 - [Jisoo Park](https://www.sysbioinfo.com/people#h.w0snweqwfi8c) 
