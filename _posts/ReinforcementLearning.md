@@ -1,5 +1,5 @@
 ---
-title: "ReinfocementLearning"
+title: "21-2 OSSP2 강화학습 실습"
 categories:
   - RL
 tags:
