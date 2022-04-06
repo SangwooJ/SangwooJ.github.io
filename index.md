@@ -15,6 +15,8 @@ classes: wide
 
 ## Paper & Conference
 - [2021 APISAT](https://apisat2021.org/) Presenter
+  - Hyungeun Jo, Hoeun Lee, Sangwoo Jeon, Vishnu Kumar Kaliappan, Tuan Anh Nguyen, Jae-Woo Lee ["Multi-Agent Reinforcement Learning based UAS Control for Logistics Environment"](https://konkukackr-my.sharepoint.com/:b:/g/personal/jswp5580_konkuk_ac_kr/EcRTzCm5zRlHmGL-c7LyQWEBtBJnICnda95TcHOQEqMUjQ?e=yJrm05)
+- T.A. Nguyen, Sangwoo Jeon, A.A. Maw, D.K. Min, J.W. Lee, (2020), “Toward dependable blockchain and AI engines of digital twin systems for urban air mobility”, The Korean Society for Aeronautical & Space Sciences, 한국항공우주학회 학술발표회 초록집, 2021.07, 408-409. (@DBpia)
 
 ## Award
 - 2019 KU Medical Hackathon 최우수상
