@@ -14,7 +14,7 @@ classes: wide
 - checkout [menu-project](https://sangwooj.github.io/project/)
 
 ## Paper & Conference
-- 2021 APISAT
+- [2021 APISAT](https://apisat2021.org/) Presenter
 
 ## Award
 - 2019 KU Medical Hackathon 최우수상
