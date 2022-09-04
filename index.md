@@ -17,9 +17,9 @@ classes: wide
 
 - **Sangwoo Jeon**, Hoeun Lee, Vishnu Kumar Kaliappan, Tuan Anh Nguyen, Hyungeun Jo, Hyeonseo Cho and Dugki Min, "Multi-agent Reinforcement Learning based on Fusion Multi-Actor Attention Critic for multiple Unmanned Aerial Vehicle navigation control", (Not accepted Yet)
 - Vishnu Kumar Kaliappan,Seungjin Yu, Rajasoundaran Soundararajan, **Sangwoo Jeon**, Dugki Min, Enumi Choi (2022). High-Secured Data Communication for Cloud Enabled Secure Docker Image Sharing Technique Using Blockchain-Based Homomorphic Encryption. Energies, 15(15), 5544.
-- [2022 IVCI 4.0](https://chennai.vit.ac.in/files/ivc2022/) Presenter
+- [2022 IVCI 4.0](https://chennai.vit.ac.in/files/ivc2022/) Oral Session Presenter
   - **Sangwoo Jeon**, Vishnu Kumar Kaliappan, Chae Yoon Lee, Sakthivel V, and Dugki Min, "Dissimilarity Multi Actor Attention Critic based model for robot navigations in cooperative disaster recovery applications", IVCI 4.0
-- [2021 APISAT](https://apisat2021.org/) Presenter
+- [2021 APISAT](https://apisat2021.org/) Oral Session Presenter
   - Hyungeun Jo, Hoeun Lee, **Sangwoo Jeon**, Vishnu Kumar Kaliappan, Tuan Anh Nguyen, Jae-Woo Lee ["Multi-Agent Reinforcement Learning based UAS Control for Logistics Environment"](https://konkukackr-my.sharepoint.com/:b:/g/personal/jswp5580_konkuk_ac_kr/EcRTzCm5zRlHmGL-c7LyQWEBtBJnICnda95TcHOQEqMUjQ?e=yJrm05)
 - Vishnu Kumar Kaliappan, Tuan Anh Nguyen, **Sang Woo Jeon**, Dugki Min, Jae-Woo Lee, "Deep Multi Agent Reinforcement Learning based Decentralized Swarm UAV Control Framework for Urban Aerial Mobility Applications", APISAT 2021
 - Tuan Anh Nguyen†, Vishnu Kumar Kaliappan†, **Sangwoo Jeon**, Kwon-su Jeon, Jae-Woo Lee, and Dugki Min, "Blockchain Empowered Federated Learning with Edge Computing for Digital Twin Systems in Urban Air Mobility", APISAT 2021
