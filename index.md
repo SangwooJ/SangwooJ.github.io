@@ -21,15 +21,14 @@ classes: wide
 - Tuan Anh Nguyen†, Vishnu Kumar Kaliappan†, **Sangwoo Jeon**, Kwon-su Jeon, Jae-Woo Lee, and Dugki Min, "Blockchain Empowered Federated Learning with Edge Computing for Digital Twin Systems in Urban Air Mobility", APISAT 2021
 - T.A. Nguyen, **Sangwoo Jeon**, A.A. Maw, D.K. Min, J.W. Lee, (2020), “Toward dependable blockchain and AI engines of digital twin systems for urban air mobility”, The Korean Society for Aeronautical & Space Sciences, 한국항공우주학회 학술발표회 초록집, 2021.07, 408-409. (@DBpia)
 
-## Project
-- checkout [menu-project](https://sangwooj.github.io/project/)
-
 ## TA (Teaching Assistant) 
 - 22-2 [Open Source Software Project 2 (Reinforcement Learning)]
 - 22-1 Seminar for Samsung employees : Day02 - Introduction to Deep Learning ,Day04 - Deep Reinforcement Learning(Basic, OpenAi gym, Baseline3) 
 - 21-2 [Open Source Software Project 2 (Reinforcement Learning)](https://gem-oregano-8bf.notion.site/TA-21-2-2-Reinforcemet-Learning-Konkuk-Univ-068d14db2e8e4b4f9fc1849237f6be15)
 - 21-1 Open Source Software Project 1 (Deep Learning)
 
+## Project
+- checkout [menu-project](https://sangwooj.github.io/project/)
 
 ## Award
 - 2019 KU Medical Hackathon 최우수상
