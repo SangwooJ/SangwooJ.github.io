@@ -24,7 +24,5 @@ My truthworthy connections
   - Game screenwriter
 - Jae-Hyun Park
   - Designer
-- June Huh
-  - Entrepreneur
 
 
