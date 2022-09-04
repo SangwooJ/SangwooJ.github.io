@@ -10,11 +10,7 @@ classes: wide
 - Sangwoo Jeon is a M.S course researcher of [DMS Lab](https://dmslab-konkuk.github.io/) at Konkuk University. He is currently working on Multi Agent Reinforcement Learning for R&D project named "Research on artificial intelligence digital twin technology for smart urban air mobility"  
 - Sangwoo Jeon worked as a software developer in [Gbrain Inc](http://gbrainlife.com/). He developed Spike detection , noise filtering Algorithm for EEG(electroencephalography) analysis Software. He also developed Android application for HumanIN (EMG Sensor). 2019.12-2020.8
 
-## Project
-- checkout [menu-project](https://sangwooj.github.io/project/)
-
 ## Paper & Conference
-
 - **Sangwoo Jeon**, Hoeun Lee, Vishnu Kumar Kaliappan, Tuan Anh Nguyen, Hyungeun Jo, Hyeonseo Cho and Dugki Min, "Multi-agent Reinforcement Learning based on Fusion Multi-Actor Attention Critic for multiple Unmanned Aerial Vehicle navigation control", (Not accepted Yet)
 - Vishnu Kumar Kaliappan,Seungjin Yu, Rajasoundaran Soundararajan, **Sangwoo Jeon**, Dugki Min, Enumi Choi (2022). High-Secured Data Communication for Cloud Enabled Secure Docker Image Sharing Technique Using Blockchain-Based Homomorphic Encryption. Energies, 15(15), 5544.
 - [2022 IVCI 4.0](https://chennai.vit.ac.in/files/ivc2022/) Oral Session Presenter
@@ -25,11 +21,15 @@ classes: wide
 - Tuan Anh Nguyen†, Vishnu Kumar Kaliappan†, **Sangwoo Jeon**, Kwon-su Jeon, Jae-Woo Lee, and Dugki Min, "Blockchain Empowered Federated Learning with Edge Computing for Digital Twin Systems in Urban Air Mobility", APISAT 2021
 - T.A. Nguyen, **Sangwoo Jeon**, A.A. Maw, D.K. Min, J.W. Lee, (2020), “Toward dependable blockchain and AI engines of digital twin systems for urban air mobility”, The Korean Society for Aeronautical & Space Sciences, 한국항공우주학회 학술발표회 초록집, 2021.07, 408-409. (@DBpia)
 
+## Project
+- checkout [menu-project](https://sangwooj.github.io/project/)
+
 ## TA (Teaching Assistant) 
 - 22-2 [Open Source Software Project 2 (Reinforcement Learning)]
 - 22-1 Seminar for Samsung employees : Day02 - Introduction to Deep Learning ,Day04 - Deep Reinforcement Learning(Basic, OpenAi gym, Baseline3) 
 - 21-2 [Open Source Software Project 2 (Reinforcement Learning)](https://gem-oregano-8bf.notion.site/TA-21-2-2-Reinforcemet-Learning-Konkuk-Univ-068d14db2e8e4b4f9fc1849237f6be15)
 - 21-1 Open Source Software Project 1 (Deep Learning)
+
 
 ## Award
 - 2019 KU Medical Hackathon 최우수상
