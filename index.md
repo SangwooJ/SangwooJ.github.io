@@ -11,15 +11,15 @@ classes: wide
 - Sangwoo Jeon worked as a software developer in [Gbrain Inc](http://gbrainlife.com/). He developed Spike detection , noise filtering Algorithm for EEG(electroencephalography) analysis Software. He also developed Android application for HumanIN (EMG Sensor). 2019.12-2020.8
 
 ## Paper & Conference
-- **Sangwoo Jeon**, Hoeun Lee, Vishnu Kumar Kaliappan, Tuan Anh Nguyen, Hyungeun Jo, Hyeonseo Cho and Dugki Min, "Multi-agent Reinforcement Learning based on Fusion Multi-Actor Attention Critic for multiple Unmanned Aerial Vehicle navigation control", (Not accepted Yet)
+- **Sangwoo Jeon**, Hoeun Lee, Vishnu Kumar Kaliappan, Tuan Anh Nguyen, Hyungeun Jo, Hyeonseo Cho and Dugki Min, "Multi-agent Reinforcement Learning based on Fusion Multi-Actor Attention Critic for multiple Unmanned Aerial Vehicle navigation control", Energies, (SCIE IF=3.252, Accepted 22/Oct)
 - Vishnu Kumar Kaliappan,Seungjin Yu, Rajasoundaran Soundararajan, **Sangwoo Jeon**, Dugki Min, Enumi Choi (2022). High-Secured Data Communication for Cloud Enabled Secure Docker Image Sharing Technique Using Blockchain-Based Homomorphic Encryption. Energies, 15(15), 5544.
 - [2022 IVCI 4.0](https://chennai.vit.ac.in/files/ivc2022/) Oral Session Presenter
   - **Sangwoo Jeon**, Vishnu Kumar Kaliappan, Chae Yoon Lee, Sakthivel V, and Dugki Min, "Dissimilarity Multi Actor Attention Critic based model for robot navigations in cooperative disaster recovery applications", IVCI 4.0
 - [2021 APISAT](https://apisat2021.org/) Oral Session Presenter
-  - Hyungeun Jo, Hoeun Lee, **Sangwoo Jeon**, Vishnu Kumar Kaliappan, Tuan Anh Nguyen, Jae-Woo Lee ["Multi-Agent Reinforcement Learning based UAS Control for Logistics Environment"](https://konkukackr-my.sharepoint.com/:b:/g/personal/jswp5580_konkuk_ac_kr/EcRTzCm5zRlHmGL-c7LyQWEBtBJnICnda95TcHOQEqMUjQ?e=yJrm05)
-- Vishnu Kumar Kaliappan, Tuan Anh Nguyen, **Sang Woo Jeon**, Dugki Min, Jae-Woo Lee, "Deep Multi Agent Reinforcement Learning based Decentralized Swarm UAV Control Framework for Urban Aerial Mobility Applications", APISAT 2021
-- Tuan Anh Nguyen†, Vishnu Kumar Kaliappan†, **Sangwoo Jeon**, Kwon-su Jeon, Jae-Woo Lee, and Dugki Min, "Blockchain Empowered Federated Learning with Edge Computing for Digital Twin Systems in Urban Air Mobility", APISAT 2021
-- T.A. Nguyen, **Sangwoo Jeon**, A.A. Maw, D.K. Min, J.W. Lee, (2020), “Toward dependable blockchain and AI engines of digital twin systems for urban air mobility”, The Korean Society for Aeronautical & Space Sciences, 한국항공우주학회 학술발표회 초록집, 2021.07, 408-409. (@DBpia)
+  - Hyungeun Jo, Hoeun Lee, **Sangwoo Jeon**, Vishnu Kumar Kaliappan, Tuan Anh Nguyen, Jae-Woo Lee ["Multi-Agent Reinforcement Learning based UAS Control for Logistics Environment"](https://link.springer.com/chapter/10.1007/978-981-19-2635-8_71)
+- Vishnu Kumar Kaliappan, Tuan Anh Nguyen, **Sang Woo Jeon**, Dugki Min, Jae-Woo Lee, ["Deep Multi Agent Reinforcement Learning based Decentralized Swarm UAV Control Framework for Urban Aerial Mobility Applications"](https://link.springer.com/chapter/10.1007/978-981-19-2635-8_70), APISAT 2021
+- Tuan Anh Nguyen†, Vishnu Kumar Kaliappan†, **Sangwoo Jeon**, Kwon-su Jeon, Jae-Woo Lee, and Dugki Min, ["Blockchain Empowered Federated Learning with Edge Computing for Digital Twin Systems in Urban Air Mobility"](https://link.springer.com/chapter/10.1007/978-981-19-2635-8_69), APISAT 2021
+- T.A. Nguyen, **Sangwoo Jeon**, A.A. Maw, D.K. Min, J.W. Lee, (2020), [“Toward dependable blockchain and AI engines of digital twin systems for urban air mobility”](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10613629), The Korean Society for Aeronautical & Space Sciences, 한국항공우주학회 학술발표회 초록집, 2021.07, 408-409. (@DBpia)
 
 ## TA (Teaching Assistant) 
 - 22-2 [Open Source Software Project 2 (Reinforcement Learning)]
