@@ -11,6 +11,8 @@ classes: wide
 - Sangwoo Jeon worked as a software developer in [Gbrain Inc](http://gbrainlife.com/). He developed Spike detection , noise filtering Algorithm for EEG(electroencephalography) analysis Software. He also developed Android application for HumanIN (EMG Sensor). 2019.12-2020.8
 
 ## Paper & Conference
+- [한국항공우주학회 2023 춘계학술대회]("https://ksas.or.kr/"), Oral Session Presenter (23.04 예정)
+  - **Sangwoo Jeon**, Myat Toe, Sakthivel V, Hyeonseo Cho, Sunjae Kwon, Jae-Woo Lee, Dugki Min, ["Safe and Efficient Landing at Vertical Takeoff and Landing Sites Using Image-based AI Inspection Techniques"], KSAS 2023 Spring Conference
 - Vishnu Kumar Kaliappan, Selvaraju P, Aravind Babu L.R., Padmapriya T, Tuan Anh Nguyen, **Sang Woo Jeon**, Dugki Min, Eunmi Choi, ["Energy-efficient Offloading based on Efficient Cognitive Energy Management Scheme in Edge Computing Device with Energy Optimization"](https://www.mdpi.com/1996-1073/15/21/8273)
 - **Sangwoo Jeon**, Hoeun Lee, Vishnu Kumar Kaliappan, Tuan Anh Nguyen, Hyungeun Jo, Hyeonseo Cho and Dugki Min, ["Multi-agent Reinforcement Learning based on Fusion Multi-Actor Attention Critic for multiple Unmanned Aerial Vehicle navigation control"](https://www.mdpi.com/1996-1073/15/19/7426), Energies, (SCIE IF=3.252, Accepted 05/Oct/2022)
 - Vishnu Kumar Kaliappan,Seungjin Yu, Rajasoundaran Soundararajan, **Sangwoo Jeon**, Dugki Min, Enumi Choi (2022). ["High-Secured Data Communication for Cloud Enabled Secure Docker Image Sharing Technique Using Blockchain-Based Homomorphic Encryption"](https://www.mdpi.com/1996-1073/15/15/5544). Energies, 15(15), 5544.
